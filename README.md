@@ -1,6 +1,7 @@
 # Overview
-- This is the project written in Structured Query Language (SQL) 
-- This project is run in Terminal  
+- This is the project written in Structured Query Language (SQL).
+- The project is run in Terminal.
+- The project allows student to practice the development of a database using MySQL, as well as the design of views, store procedures, and stored functions.
 
 # Demo Snapshot
 
